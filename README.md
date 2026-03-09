@@ -1,8 +1,13 @@
 # 第十七届服服外包大赛备赛资料
+
 > 仓库性质：公开 (Public)
 > 创建时间：2026-03-09
-> 队长：quetzal-china
+> 队长：quetzal-china(liuyuxin)
+
+---
+
 ## 目录结构
+
 fwwb-17th-preparation/
 ├── README.md
 ├── 市场调研
@@ -10,8 +15,14 @@ fwwb-17th-preparation/
 ├── 赛题解读
 └── 需求分析
 
+---
+
 ## 使用说明
+
 本仓库用于存放备赛过程中的文档资料。
-## 队员
+
+---
+
+## 参赛成员
 - 队长：quetzal-china(liuyuxin)
 - 队员：(待添加)
