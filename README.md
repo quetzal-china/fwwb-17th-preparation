@@ -20,8 +20,9 @@ fwwb-17th-preparation/
 本仓库用于存放备赛过程中的文档资料。
 
 ## 参赛成员
-| 角色 | GitHub 用户名 | 姓名     |
+| 角色 | GitHub 用户名 | 姓名      |
 | ---- | ------------- | -------- |
 | 队长 | quetzal-china | liuyuxin |
-| 队员 | (待添加)      | -        |
-| 队员 | (待添加)      | -        |
+| 队员 | AuRevior-ai   | zanzinuo |
+| 队员 | gitlizishuohub | lizishuo |
+
